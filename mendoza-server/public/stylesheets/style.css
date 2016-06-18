@@ -3,7 +3,7 @@ body {
     text-align: center;
     background-color: #212121;
     color: white;
-    padding: 7.5%;
+    padding: 5.5%;
     font-size: 40px;
 }
 
@@ -12,7 +12,7 @@ body {
     margin-bottom: 80px;
 }
 
-.green_bulb {
+.bulb {
     display: inline-block;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

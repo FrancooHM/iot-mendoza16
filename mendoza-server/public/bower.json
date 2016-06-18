@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/FrancooHM/iot-mendoza16",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~1.4.5",
+    "socket.io": "~1.4.5",
+    "jquery": "~2.2.3",
+    "Materialize": "materialize#^0.97.6"
+  }
+}
